@@ -1,0 +1,69 @@
+# ==========================================
+# C++ / CMake Build Artifacts
+# ==========================================
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+
+# Binaries & Object Files
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.lib
+*.a
+*.dll
+*.so
+*.dylib
+*.pdb
+*.ilk
+
+# ==========================================
+# IDEs & Editors
+# ==========================================
+.vs/
+.idea/
+*.sln.docstates
+*.suo
+*.user
+*.userosv
+
+# (Opsional) VS Code workspace setting
+# .vscode/
+
+# ==========================================
+# Bahasa Lain (Jaga-jaga jika tambah track)
+# ==========================================
+# Rust
+target/
+Cargo.lock
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+venv/
+.env
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# ==========================================
+# OS Junk
+# ==========================================
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ==========================================
+# Sensitive Data
+# ==========================================
+exercism.json
+*.key
+*.token
