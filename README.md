@@ -1,6 +1,6 @@
 <div align="center">
 
-# Exercism · C++ Track
+# Exercism Track
 
 **Solusi & catatan belajar dari [Exercism C++ Track](https://exercism.org/tracks/cpp/exercises) — belajar C++ lewat Test-Driven Development.**
 
