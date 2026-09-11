@@ -2,7 +2,7 @@
 
 # Exercism Track
 
-**Solusi & catatan belajar dari [Exercism C++ Track](https://exercism.org/tracks/cpp/exercises) — belajar C++ lewat Test-Driven Development.**
+**My solusi [Exercism C++ Track](https://exercism.org/tracks/cpp/exercises) — lewat Test-Driven Development.**
 
 [![C++](https://img.shields.io/badge/-C%2B%2B17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Exercism](https://img.shields.io/badge/-Exercism-6a5eeb?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/tracks/cpp)
